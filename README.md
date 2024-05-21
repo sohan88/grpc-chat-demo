@@ -27,7 +27,7 @@ node server.js
 node client.js
 ```
 
-![screenshot](image (6).png)
+![screenshot]([image (6).png](https://github.com/sohan88/grpc-chat-demo/blob/main/image%20(6).png))
 
 ## WHY GRPC AND ITS SIGNIFICANCE
 
