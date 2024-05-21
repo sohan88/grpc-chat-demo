@@ -1,2 +1,2 @@
 # Ignore Node.js modules
-grpc-demo/node_modules/
+node_modules/
